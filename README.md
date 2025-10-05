@@ -5,8 +5,8 @@
 
 Picture the Shannon Basin—Ireland's beating heart—where thousands of waterbirds glide over wetlands slowly disappearing under scrub and pollution. Now, imagine blending local know-how with the power of space. Satellites like NASA's Landsat and ESA Sentinel-2 can help us watch over the basin, spotting problems early to turn the tide on habitat loss. This vision transforms the Shannon into a living lab for innovation, where every pixel of data from space nurtures wildlife and empowers communities.
 
-![Shannon Basin Wetlands](https://via.placeholder.com/400x200.png?text=Shannon+Wetlands)  
-*Image: A serene view of Shannon Basin wetlands (replace with actual image).*
+![Shannon Basin Wetlands]([https://via.placeholder.com/400x200.png?text=Shannon+Wetlands](https://pixabay.com/photos/athlone-ireland-river-shannon-5073485/))  
+
 
 ## Background
 

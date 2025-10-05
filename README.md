@@ -1,4 +1,4 @@
-# The-Shannon-Studio
+# The Shannon Studio
 *Sky to Soil: Satellites Restoring the Shannon*
 
 ## Introduction
